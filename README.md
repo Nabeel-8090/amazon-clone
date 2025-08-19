@@ -18,6 +18,9 @@ This project is designed for **laptop screens only** and is not responsive for m
 - No functionality (static design only)  
 
 ## How to Use
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/amazon-clone.git
+Run the following command in the terminal to clone the repository:
+```sh
+git clone https://github.com/YOUR_USERNAME/amazon-clone.git
+cd amazon-clone
+```
+Alternatively, download the ZIP file and extract it.
